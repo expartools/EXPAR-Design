@@ -1,0 +1,5160 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.2.27+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>39236</BlastOutput_query-ID>
+  <BlastOutput_query-def>seq_1_HTT_71873_27</BlastOutput_query-def>
+  <BlastOutput_query-len>27</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>39236</Iteration_query-ID>
+  <Iteration_query-def>seq_1_HTT_71873_27</Iteration_query-def>
+  <Iteration_query-len>27</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1916</Statistics_db-num>
+      <Statistics_db-len>8327906</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>2</Iteration_iter-num>
+  <Iteration_query-ID>39237</Iteration_query-ID>
+  <Iteration_query-def>seq_2_HTT_126662_33</Iteration_query-def>
+  <Iteration_query-len>33</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1916</Statistics_db-num>
+      <Statistics_db-len>8327906</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>3</Iteration_iter-num>
+  <Iteration_query-ID>39238</Iteration_query-ID>
+  <Iteration_query-def>seq_3_TTH_556_33</Iteration_query-def>
+  <Iteration_query-len>33</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1916</Statistics_db-num>
+      <Statistics_db-len>8327906</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>4</Iteration_iter-num>
+  <Iteration_query-ID>39239</Iteration_query-ID>
+  <Iteration_query-def>seq_4_TTH_86677_41</Iteration_query-def>
+  <Iteration_query-len>41</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1916</Statistics_db-num>
+      <Statistics_db-len>8327906</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+
+
+
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.2.27+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>42816</BlastOutput_query-ID>
+  <BlastOutput_query-def>seq_5_TTH_94782_39</BlastOutput_query-def>
+  <BlastOutput_query-len>39</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>42816</Iteration_query-ID>
+  <Iteration_query-def>seq_5_TTH_94782_39</Iteration_query-def>
+  <Iteration_query-len>39</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|348020100|gb|JF810822.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0819011 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810822</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|348020098|gb|JF810821.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_08161181 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810821</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|348020096|gb|JF810820.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0814709 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810820</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|348020094|gb|JF810819.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0809003 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810819</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|348020090|gb|JF810817.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0801852 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810817</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|348020088|gb|JF810816.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_07520316 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810816</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|348020086|gb|JF810815.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_07510439 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810815</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|348020084|gb|JF810814.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0750824 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810814</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|348020082|gb|JF810813.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_07491379 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810813</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|348020080|gb|JF810812.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0901420 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810812</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|348020078|gb|JF810811.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0852551 DNA polymerase UL42 processivity factor (UL42) gene, partial cds</Hit_def>
+  <Hit_accession>JF810811</Hit_accession>
+  <Hit_len>1466</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|348020076|gb|JF810810.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0848290 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810810</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|348020074|gb|JF810809.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_08451381 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810809</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|348020072|gb|JF810808.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0842087 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810808</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|348020070|gb|JF810807.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_08391215 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810807</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|348020068|gb|JF810806.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0835078 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810806</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|348020066|gb|JF810805.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0831064 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810805</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|348020064|gb|JF810804.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0830614 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810804</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|348020062|gb|JF810803.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_08281267 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810803</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|348020060|gb|JF810802.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0827493 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810802</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|348020058|gb|JF810801.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0827350 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810801</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|348020056|gb|JF810800.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0825677 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810800</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|348020054|gb|JF810799.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0824910 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810799</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|348020052|gb|JF810798.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_08211181 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810798</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|348020050|gb|JF810797.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_08190212 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810797</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|348020048|gb|JF810796.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_1006193. DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810796</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|348020046|gb|JF810795.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0742972 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810795</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|348020044|gb|JF810794.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0851312 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810794</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|348020042|gb|JF810793.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0846610 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810793</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|348020040|gb|JF810792.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0846594 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810792</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|348020038|gb|JF810791.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0822800 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810791</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|348020036|gb|JF810790.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0819351 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810790</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|348020034|gb|JF810789.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0816951 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810789</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|348020032|gb|JF810788.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0805286 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810788</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|348020030|gb|JF810787.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0806730 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810787</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|348020028|gb|JF810786.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0835600 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810786</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|348020026|gb|JF810785.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_08051065 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810785</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|348020024|gb|JF810784.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_07491231 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810784</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|348020022|gb|JF810783.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate 2UL425_07451236 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810783</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|348020020|gb|JF810782.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate 2UL429_08471339 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810782</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|348020018|gb|JF810781.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0835844 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810781</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|348020016|gb|JF810780.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0832414 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810780</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|348020014|gb|JF810779.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0712985 DNA polymerase UL42 processivity factor (UL42) gene, partial cds</Hit_def>
+  <Hit_accession>JF810779</Hit_accession>
+  <Hit_len>1466</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|348020012|gb|JF810778.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_07051077 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810778</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|348020010|gb|JF810777.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_07501285 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810777</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|348020008|gb|JF810776.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0750611 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810776</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|348020006|gb|JF810775.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0735294 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810775</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|348020004|gb|JF810774.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_1007463 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810774</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|348020002|gb|JF810773.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_07410371 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810773</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|348020000|gb|JF810772.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_07451124 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810772</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>51</Hit_num>
+  <Hit_id>gi|348019998|gb|JF810771.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_0726414 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810771</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>52</Hit_num>
+  <Hit_id>gi|348019996|gb|JF810770.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_07101164 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810770</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>53</Hit_num>
+  <Hit_id>gi|400530476|gb|JX142173.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain Mckrae, partial genome</Hit_def>
+  <Hit_accession>JX142173</Hit_accession>
+  <Hit_len>152201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>94107</Hsp_hit-from>
+      <Hsp_hit-to>94145</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>54</Hit_num>
+  <Hit_id>gi|348019864|gb|JF810823.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_09131216 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810823</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>55</Hit_num>
+  <Hit_id>gi|384597744|gb|JQ780693.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain KOS, complete genome</Hit_def>
+  <Hit_accession>JQ780693</Hit_accession>
+  <Hit_len>151024</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>93685</Hsp_hit-from>
+      <Hsp_hit-to>93723</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>56</Hit_num>
+  <Hit_id>gi|380776962|gb|JQ673480.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain KOS, complete genome</Hit_def>
+  <Hit_accession>JQ673480</Hit_accession>
+  <Hit_len>152011</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>94049</Hsp_hit-from>
+      <Hsp_hit-to>94087</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>57</Hit_num>
+  <Hit_id>gi|354718322|gb|JN420342.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain OD4, partial genome</Hit_def>
+  <Hit_accession>JN420342</Hit_accession>
+  <Hit_len>152015</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>94013</Hsp_hit-from>
+      <Hsp_hit-to>94051</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>58</Hit_num>
+  <Hit_id>gi|354718250|gb|JN420341.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain CJ970, partial genome</Hit_def>
+  <Hit_accession>JN420341</Hit_accession>
+  <Hit_len>151984</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>93972</Hsp_hit-from>
+      <Hsp_hit-to>94010</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>59</Hit_num>
+  <Hit_id>gi|354718177|gb|JN420340.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain CJ394, partial genome</Hit_def>
+  <Hit_accession>JN420340</Hit_accession>
+  <Hit_len>151921</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>93910</Hsp_hit-from>
+      <Hsp_hit-to>93948</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>60</Hit_num>
+  <Hit_id>gi|354718105|gb|JN420339.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain CJ360, partial genome</Hit_def>
+  <Hit_accession>JN420339</Hit_accession>
+  <Hit_len>151912</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>93903</Hsp_hit-from>
+      <Hsp_hit-to>93941</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>61</Hit_num>
+  <Hit_id>gi|354718033|gb|JN420338.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain CJ311, partial genome</Hit_def>
+  <Hit_accession>JN420338</Hit_accession>
+  <Hit_len>151909</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>93918</Hsp_hit-from>
+      <Hsp_hit-to>93956</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>62</Hit_num>
+  <Hit_id>gi|354717963|gb|JN420337.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain TFT401, partial genome</Hit_def>
+  <Hit_accession>JN420337</Hit_accession>
+  <Hit_len>151912</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>93918</Hsp_hit-from>
+      <Hsp_hit-to>93956</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>63</Hit_num>
+  <Hit_id>gi|354717891|gb|JN400093.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain 134, partial genome</Hit_def>
+  <Hit_accession>JN400093</Hit_accession>
+  <Hit_len>152104</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>93937</Hsp_hit-from>
+      <Hsp_hit-to>93975</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>64</Hit_num>
+  <Hit_id>gi|353260843|gb|JN555585.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain 17, complete genome</Hit_def>
+  <Hit_accession>JN555585</Hit_accession>
+  <Hit_len>152222</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>94128</Hsp_hit-from>
+      <Hsp_hit-to>94166</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>65</Hit_num>
+  <Hit_id>gi|304319600|gb|HM585515.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain R62, partial genome</Hit_def>
+  <Hit_accession>HM585515</Hit_accession>
+  <Hit_len>135544</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>84803</Hsp_hit-from>
+      <Hsp_hit-to>84841</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>66</Hit_num>
+  <Hit_id>gi|304319523|gb|HM585514.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain R11, partial genome</Hit_def>
+  <Hit_accession>HM585514</Hit_accession>
+  <Hit_len>135579</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>84781</Hsp_hit-from>
+      <Hsp_hit-to>84819</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>67</Hit_num>
+  <Hit_id>gi|304319447|gb|HM585513.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain S25, partial genome</Hit_def>
+  <Hit_accession>HM585513</Hit_accession>
+  <Hit_len>135676</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>84799</Hsp_hit-from>
+      <Hsp_hit-to>84837</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>68</Hit_num>
+  <Hit_id>gi|304319371|gb|HM585512.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain S23, partial genome</Hit_def>
+  <Hit_accession>HM585512</Hit_accession>
+  <Hit_len>135003</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>84945</Hsp_hit-from>
+      <Hsp_hit-to>84983</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>69</Hit_num>
+  <Hit_id>gi|304319296|gb|HM585511.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E19, partial genome</Hit_def>
+  <Hit_accession>HM585511</Hit_accession>
+  <Hit_len>135775</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>84787</Hsp_hit-from>
+      <Hsp_hit-to>84825</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>70</Hit_num>
+  <Hit_id>gi|304319146|gb|HM585509.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E03, partial genome</Hit_def>
+  <Hit_accession>HM585509</Hit_accession>
+  <Hit_len>135658</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>84786</Hsp_hit-from>
+      <Hsp_hit-to>84824</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>71</Hit_num>
+  <Hit_id>gi|304319071|gb|HM585508.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain CR38, partial genome</Hit_def>
+  <Hit_accession>HM585508</Hit_accession>
+  <Hit_len>135948</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>84628</Hsp_hit-from>
+      <Hsp_hit-to>84666</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>72</Hit_num>
+  <Hit_id>gi|304318993|gb|HM585507.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E35, partial genome</Hit_def>
+  <Hit_accession>HM585507</Hit_accession>
+  <Hit_len>134296</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>84737</Hsp_hit-from>
+      <Hsp_hit-to>84775</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>73</Hit_num>
+  <Hit_id>gi|304318915|gb|HM585506.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E25, partial genome</Hit_def>
+  <Hit_accession>HM585506</Hit_accession>
+  <Hit_len>135569</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>84735</Hsp_hit-from>
+      <Hsp_hit-to>84773</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>74</Hit_num>
+  <Hit_id>gi|304318838|gb|HM585505.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E23, partial genome</Hit_def>
+  <Hit_accession>HM585505</Hit_accession>
+  <Hit_len>135558</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>84736</Hsp_hit-from>
+      <Hsp_hit-to>84774</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>75</Hit_num>
+  <Hit_id>gi|304318761|gb|HM585504.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E22, partial genome</Hit_def>
+  <Hit_accession>HM585504</Hit_accession>
+  <Hit_len>135549</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>84806</Hsp_hit-from>
+      <Hsp_hit-to>84844</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>76</Hit_num>
+  <Hit_id>gi|304318683|gb|HM585503.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E15, partial genome</Hit_def>
+  <Hit_accession>HM585503</Hit_accession>
+  <Hit_len>135567</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>84735</Hsp_hit-from>
+      <Hsp_hit-to>84773</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>77</Hit_num>
+  <Hit_id>gi|304318605|gb|HM585502.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E13, partial genome</Hit_def>
+  <Hit_accession>HM585502</Hit_accession>
+  <Hit_len>135600</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>84776</Hsp_hit-from>
+      <Hsp_hit-to>84814</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>78</Hit_num>
+  <Hit_id>gi|304318528|gb|HM585501.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E12, partial genome</Hit_def>
+  <Hit_accession>HM585501</Hit_accession>
+  <Hit_len>135577</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>84777</Hsp_hit-from>
+      <Hsp_hit-to>84815</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>79</Hit_num>
+  <Hit_id>gi|304318450|gb|HM585500.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E11, partial genome</Hit_def>
+  <Hit_accession>HM585500</Hit_accession>
+  <Hit_len>135509</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>84739</Hsp_hit-from>
+      <Hsp_hit-to>84777</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>80</Hit_num>
+  <Hit_id>gi|304318372|gb|HM585499.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E10, partial genome</Hit_def>
+  <Hit_accession>HM585499</Hit_accession>
+  <Hit_len>135510</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>84735</Hsp_hit-from>
+      <Hsp_hit-to>84773</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>81</Hit_num>
+  <Hit_id>gi|304318294|gb|HM585498.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E08, partial genome</Hit_def>
+  <Hit_accession>HM585498</Hit_accession>
+  <Hit_len>135539</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>84780</Hsp_hit-from>
+      <Hsp_hit-to>84818</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>82</Hit_num>
+  <Hit_id>gi|304318217|gb|HM585497.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E07, partial genome</Hit_def>
+  <Hit_accession>HM585497</Hit_accession>
+  <Hit_len>135520</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>84758</Hsp_hit-from>
+      <Hsp_hit-to>84796</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>83</Hit_num>
+  <Hit_id>gi|304318139|gb|HM585496.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E06, partial genome</Hit_def>
+  <Hit_accession>HM585496</Hit_accession>
+  <Hit_len>135550</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>84733</Hsp_hit-from>
+      <Hsp_hit-to>84771</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>84</Hit_num>
+  <Hit_id>gi|290766081|gb|GU734772.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain H129, complete genome</Hit_def>
+  <Hit_accession>GU734772</Hit_accession>
+  <Hit_len>152066</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>94064</Hsp_hit-from>
+      <Hsp_hit-to>94102</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>85</Hit_num>
+  <Hit_id>gi|290766003|gb|GU734771.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain F, complete genome</Hit_def>
+  <Hit_accession>GU734771</Hit_accession>
+  <Hit_len>152151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>94024</Hsp_hit-from>
+      <Hsp_hit-to>94062</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>86</Hit_num>
+  <Hit_id>gi|222478328|gb|FJ593289.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 transgenic strain 17, complete genome</Hit_def>
+  <Hit_accession>FJ593289</Hit_accession>
+  <Hit_len>165101</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>93994</Hsp_hit-from>
+      <Hsp_hit-to>94032</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>87</Hit_num>
+  <Hit_id>gi|71003475|dbj|AB220991.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 UL42 gene for DNA polymerase processivity factor, complete cds, strain: BBY-V-1801</Hit_def>
+  <Hit_accession>AB220991</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>88</Hit_num>
+  <Hit_id>gi|71003471|dbj|AB220990.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 UL42 gene for DNA polymerase processivity factor, complete cds, strain: SYM-1843</Hit_def>
+  <Hit_accession>AB220990</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>89</Hit_num>
+  <Hit_id>gi|71003467|dbj|AB220989.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 UL42 gene for DNA polymerase processivity factor, complete cds, strain: KBS-C-1783</Hit_def>
+  <Hit_accession>AB220989</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>90</Hit_num>
+  <Hit_id>gi|71003463|dbj|AB220988.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 UL42 gene for DNA polymerase processivity factor, complete cds, strain: KBS-V-1782</Hit_def>
+  <Hit_accession>AB220988</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>91</Hit_num>
+  <Hit_id>gi|71003461|dbj|AB220987.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 UL42 gene for DNA polymerase processivity factor, complete cds, strain: YMS-1732</Hit_def>
+  <Hit_accession>AB220987</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>92</Hit_num>
+  <Hit_id>gi|71003457|dbj|AB220986.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 UL42 gene for DNA polymerase processivity factor, complete cds, strain: MTD-1730</Hit_def>
+  <Hit_accession>AB220986</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1017</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>93</Hit_num>
+  <Hit_id>gi|1944536|emb|X14112.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 complete genome</Hit_def>
+  <Hit_accession>X14112</Hit_accession>
+  <Hit_len>152261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>94129</Hsp_hit-from>
+      <Hsp_hit-to>94167</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>94</Hit_num>
+  <Hit_id>gi|330227|gb|M19121.1|HS1UL3</Hit_id>
+  <Hit_def>Herpes simplex virus type 1 UL42 gene, complete cds</Hit_def>
+  <Hit_accession>M19121</Hit_accession>
+  <Hit_len>1800</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>30.1402</Hsp_bit-score>
+      <Hsp_score>32</Hsp_score>
+      <Hsp_evalue>0.133101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1257</Hsp_hit-from>
+      <Hsp_hit-to>1295</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>39</Hsp_align-len>
+      <Hsp_qseq>CCAGGACTCTCGGGCCGGCCCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCGGGCCTCTGGGAGCGAGCCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || |||| ||  ||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>95</Hit_num>
+  <Hit_id>gi|348020092|gb|JF810818.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 isolate UL42_08031195 DNA polymerase UL42 processivity factor (UL42) gene, complete cds</Hit_def>
+  <Hit_accession>JF810818</Hit_accession>
+  <Hit_len>1467</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>28.3368</Hsp_bit-score>
+      <Hsp_score>30</Hsp_score>
+      <Hsp_evalue>0.464567</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>39</Hsp_query-to>
+      <Hsp_hit-from>1036</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>18</Hsp_identity>
+      <Hsp_positive>18</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>20</Hsp_align-len>
+      <Hsp_qseq>CCGACCGACAGCCAGGACTC</Hsp_qseq>
+      <Hsp_hseq>CCAACAGACAGCCAGGACTC</Hsp_hseq>
+      <Hsp_midline>|| || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>96</Hit_num>
+  <Hit_id>gi|330190|gb|M34532.1|HS1PROM</Hit_id>
+  <Hit_def>Herpes simplex virus type 1 joint promoter</Hit_def>
+  <Hit_accession>M34532</Hit_accession>
+  <Hit_len>591</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>24.7301</Hsp_bit-score>
+      <Hsp_score>26</Hsp_score>
+      <Hsp_evalue>5.65959</Hsp_evalue>
+      <Hsp_query-from>12</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>408</Hsp_hit-from>
+      <Hsp_hit-to>420</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>13</Hsp_identity>
+      <Hsp_positive>13</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>13</Hsp_align-len>
+      <Hsp_qseq>GGGCCGGCCCGAC</Hsp_qseq>
+      <Hsp_hseq>GGGCCGGCCCGAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1916</Statistics_db-num>
+      <Statistics_db-len>8327906</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>2</Iteration_iter-num>
+  <Iteration_query-ID>42817</Iteration_query-ID>
+  <Iteration_query-def>seq_6_TTH_103137_26</Iteration_query-def>
+  <Iteration_query-len>26</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|430768498|dbj|AB618031.1|</Hit_id>
+  <Hit_def>Herpes simplex virus (type 1 /strain RH2) DNA, nearly complete genome</Hit_def>
+  <Hit_accession>AB618031</Hit_accession>
+  <Hit_len>149643</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>100827</Hsp_hit-from>
+      <Hsp_hit-to>100850</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|400530476|gb|JX142173.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain Mckrae, partial genome</Hit_def>
+  <Hit_accession>JX142173</Hit_accession>
+  <Hit_len>152201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>102471</Hsp_hit-from>
+      <Hsp_hit-to>102494</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|388524924|gb|JQ730035.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain McKrae, partial genome</Hit_def>
+  <Hit_accession>JQ730035</Hit_accession>
+  <Hit_len>151135</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>101848</Hsp_hit-from>
+      <Hsp_hit-to>101871</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|384597744|gb|JQ780693.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain KOS, complete genome</Hit_def>
+  <Hit_accession>JQ780693</Hit_accession>
+  <Hit_len>151024</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>102046</Hsp_hit-from>
+      <Hsp_hit-to>102069</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|380776962|gb|JQ673480.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain KOS, complete genome</Hit_def>
+  <Hit_accession>JQ673480</Hit_accession>
+  <Hit_len>152011</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>102410</Hsp_hit-from>
+      <Hsp_hit-to>102433</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|354718322|gb|JN420342.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain OD4, partial genome</Hit_def>
+  <Hit_accession>JN420342</Hit_accession>
+  <Hit_len>152015</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>102377</Hsp_hit-from>
+      <Hsp_hit-to>102400</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|354718250|gb|JN420341.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain CJ970, partial genome</Hit_def>
+  <Hit_accession>JN420341</Hit_accession>
+  <Hit_len>151984</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>102340</Hsp_hit-from>
+      <Hsp_hit-to>102363</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|354718177|gb|JN420340.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain CJ394, partial genome</Hit_def>
+  <Hit_accession>JN420340</Hit_accession>
+  <Hit_len>151921</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>102276</Hsp_hit-from>
+      <Hsp_hit-to>102299</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|354718105|gb|JN420339.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain CJ360, partial genome</Hit_def>
+  <Hit_accession>JN420339</Hit_accession>
+  <Hit_len>151912</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>102273</Hsp_hit-from>
+      <Hsp_hit-to>102296</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|354718033|gb|JN420338.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain CJ311, partial genome</Hit_def>
+  <Hit_accession>JN420338</Hit_accession>
+  <Hit_len>151909</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>102290</Hsp_hit-from>
+      <Hsp_hit-to>102313</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|354717963|gb|JN420337.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain TFT401, partial genome</Hit_def>
+  <Hit_accession>JN420337</Hit_accession>
+  <Hit_len>151912</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>102284</Hsp_hit-from>
+      <Hsp_hit-to>102307</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|354717891|gb|JN400093.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain 134, partial genome</Hit_def>
+  <Hit_accession>JN400093</Hit_accession>
+  <Hit_len>152104</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>102302</Hsp_hit-from>
+      <Hsp_hit-to>102325</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|353260843|gb|JN555585.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain 17, complete genome</Hit_def>
+  <Hit_accession>JN555585</Hit_accession>
+  <Hit_len>152222</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>102491</Hsp_hit-from>
+      <Hsp_hit-to>102514</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|304319600|gb|HM585515.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain R62, partial genome</Hit_def>
+  <Hit_accession>HM585515</Hit_accession>
+  <Hit_len>135544</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>93167</Hsp_hit-from>
+      <Hsp_hit-to>93190</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|304319523|gb|HM585514.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain R11, partial genome</Hit_def>
+  <Hit_accession>HM585514</Hit_accession>
+  <Hit_len>135579</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>93144</Hsp_hit-from>
+      <Hsp_hit-to>93167</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|304319447|gb|HM585513.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain S25, partial genome</Hit_def>
+  <Hit_accession>HM585513</Hit_accession>
+  <Hit_len>135676</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>93163</Hsp_hit-from>
+      <Hsp_hit-to>93186</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|304319371|gb|HM585512.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain S23, partial genome</Hit_def>
+  <Hit_accession>HM585512</Hit_accession>
+  <Hit_len>135003</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>93310</Hsp_hit-from>
+      <Hsp_hit-to>93333</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|304319296|gb|HM585511.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E19, partial genome</Hit_def>
+  <Hit_accession>HM585511</Hit_accession>
+  <Hit_len>135775</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>93147</Hsp_hit-from>
+      <Hsp_hit-to>93170</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|304319221|gb|HM585510.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E14, partial genome</Hit_def>
+  <Hit_accession>HM585510</Hit_accession>
+  <Hit_len>135588</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>93104</Hsp_hit-from>
+      <Hsp_hit-to>93127</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|304319146|gb|HM585509.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E03, partial genome</Hit_def>
+  <Hit_accession>HM585509</Hit_accession>
+  <Hit_len>135658</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>93146</Hsp_hit-from>
+      <Hsp_hit-to>93169</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|304319071|gb|HM585508.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain CR38, partial genome</Hit_def>
+  <Hit_accession>HM585508</Hit_accession>
+  <Hit_len>135948</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>92989</Hsp_hit-from>
+      <Hsp_hit-to>93012</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|304318993|gb|HM585507.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E35, partial genome</Hit_def>
+  <Hit_accession>HM585507</Hit_accession>
+  <Hit_len>134296</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>93107</Hsp_hit-from>
+      <Hsp_hit-to>93130</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|304318915|gb|HM585506.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E25, partial genome</Hit_def>
+  <Hit_accession>HM585506</Hit_accession>
+  <Hit_len>135569</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>93106</Hsp_hit-from>
+      <Hsp_hit-to>93129</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|304318838|gb|HM585505.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E23, partial genome</Hit_def>
+  <Hit_accession>HM585505</Hit_accession>
+  <Hit_len>135558</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>93106</Hsp_hit-from>
+      <Hsp_hit-to>93129</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|304318761|gb|HM585504.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E22, partial genome</Hit_def>
+  <Hit_accession>HM585504</Hit_accession>
+  <Hit_len>135549</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>93177</Hsp_hit-from>
+      <Hsp_hit-to>93200</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|304318683|gb|HM585503.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E15, partial genome</Hit_def>
+  <Hit_accession>HM585503</Hit_accession>
+  <Hit_len>135567</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>93105</Hsp_hit-from>
+      <Hsp_hit-to>93128</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|304318605|gb|HM585502.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E13, partial genome</Hit_def>
+  <Hit_accession>HM585502</Hit_accession>
+  <Hit_len>135600</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>93142</Hsp_hit-from>
+      <Hsp_hit-to>93165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|304318528|gb|HM585501.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E12, partial genome</Hit_def>
+  <Hit_accession>HM585501</Hit_accession>
+  <Hit_len>135577</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>93134</Hsp_hit-from>
+      <Hsp_hit-to>93157</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|304318450|gb|HM585500.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E11, partial genome</Hit_def>
+  <Hit_accession>HM585500</Hit_accession>
+  <Hit_len>135509</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>93110</Hsp_hit-from>
+      <Hsp_hit-to>93133</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|304318372|gb|HM585499.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E10, partial genome</Hit_def>
+  <Hit_accession>HM585499</Hit_accession>
+  <Hit_len>135510</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>93106</Hsp_hit-from>
+      <Hsp_hit-to>93129</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|304318294|gb|HM585498.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E08, partial genome</Hit_def>
+  <Hit_accession>HM585498</Hit_accession>
+  <Hit_len>135539</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>93140</Hsp_hit-from>
+      <Hsp_hit-to>93163</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|304318217|gb|HM585497.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E07, partial genome</Hit_def>
+  <Hit_accession>HM585497</Hit_accession>
+  <Hit_len>135520</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>93129</Hsp_hit-from>
+      <Hsp_hit-to>93152</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|304318139|gb|HM585496.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E06, partial genome</Hit_def>
+  <Hit_accession>HM585496</Hit_accession>
+  <Hit_len>135550</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>93105</Hsp_hit-from>
+      <Hsp_hit-to>93128</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|290766081|gb|GU734772.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain H129, complete genome</Hit_def>
+  <Hit_accession>GU734772</Hit_accession>
+  <Hit_len>152066</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>102426</Hsp_hit-from>
+      <Hsp_hit-to>102449</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|290766003|gb|GU734771.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain F, complete genome</Hit_def>
+  <Hit_accession>GU734771</Hit_accession>
+  <Hit_len>152151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>102384</Hsp_hit-from>
+      <Hsp_hit-to>102407</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|222478328|gb|FJ593289.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 transgenic strain 17, complete genome</Hit_def>
+  <Hit_accession>FJ593289</Hit_accession>
+  <Hit_len>165101</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>102357</Hsp_hit-from>
+      <Hsp_hit-to>102380</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|114318788|gb|DQ889502.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain HF clone 10, partial sequence</Hit_def>
+  <Hit_accession>DQ889502</Hit_accession>
+  <Hit_len>131774</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>93283</Hsp_hit-from>
+      <Hsp_hit-to>93306</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|1944536|emb|X14112.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 complete genome</Hit_def>
+  <Hit_accession>X14112</Hit_accession>
+  <Hit_len>152261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>102490</Hsp_hit-from>
+      <Hsp_hit-to>102513</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|330056|gb|M15621.1|HS1ATIF1</Hit_id>
+  <Hit_def>HSV1 (strain F) alpha-trans-inducing factor genes, complete cds</Hit_def>
+  <Hit_accession>M15621</Hit_accession>
+  <Hit_len>7241</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.00313023</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>3427</Hsp_hit-from>
+      <Hsp_hit-to>3404</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>CACGGACTCGTCCCACGCGGCGAC</Hsp_qseq>
+      <Hsp_hseq>CACGGACTCGTCCCACACGGCAAC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1916</Statistics_db-num>
+      <Statistics_db-len>8327906</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>3</Iteration_iter-num>
+  <Iteration_query-ID>42818</Iteration_query-ID>
+  <Iteration_query-def>seq_7_HTH_73880_38</Iteration_query-def>
+  <Iteration_query-len>38</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|304319146|gb|HM585509.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E03, partial genome</Hit_def>
+  <Hit_accession>HM585509</Hit_accession>
+  <Hit_len>135658</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>51.7806</Hsp_bit-score>
+      <Hsp_score>56</Hsp_score>
+      <Hsp_evalue>4.07158e-08</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>38</Hsp_query-to>
+      <Hsp_hit-from>64089</Hsp_hit-from>
+      <Hsp_hit-to>64126</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>34</Hsp_identity>
+      <Hsp_positive>34</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>38</Hsp_align-len>
+      <Hsp_qseq>GAGTCGAAGAGCGTCAGGCACAGTTCCAGTTCCGACTC</Hsp_qseq>
+      <Hsp_hseq>GAGTCAAACAGCGTGAGGCACAGCTCCAGTTCCGACTC</Hsp_hseq>
+      <Hsp_midline>||||| || ||||| |||||||| ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|290766003|gb|GU734771.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain F, complete genome</Hit_def>
+  <Hit_accession>GU734771</Hit_accession>
+  <Hit_len>152151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>51.7806</Hsp_bit-score>
+      <Hsp_score>56</Hsp_score>
+      <Hsp_evalue>4.07158e-08</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>38</Hsp_query-to>
+      <Hsp_hit-from>73323</Hsp_hit-from>
+      <Hsp_hit-to>73360</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>34</Hsp_identity>
+      <Hsp_positive>34</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>38</Hsp_align-len>
+      <Hsp_qseq>GAGTCGAAGAGCGTCAGGCACAGTTCCAGTTCCGACTC</Hsp_qseq>
+      <Hsp_hseq>GAGTCAAACAGCGTGAGGCACAGCTCCAGTTCCGACTC</Hsp_hseq>
+      <Hsp_midline>||||| || ||||| |||||||| ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|44844041|emb|AJ626481.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 partial US8 gene for glycoprotein E, isolate 90444</Hit_def>
+  <Hit_accession>AJ626481</Hit_accession>
+  <Hit_len>1658</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>24.7301</Hsp_bit-score>
+      <Hsp_score>26</Hsp_score>
+      <Hsp_evalue>5.65959</Hsp_evalue>
+      <Hsp_query-from>26</Hsp_query-from>
+      <Hsp_query-to>38</Hsp_query-to>
+      <Hsp_hit-from>493</Hsp_hit-from>
+      <Hsp_hit-to>505</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>13</Hsp_identity>
+      <Hsp_positive>13</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>13</Hsp_align-len>
+      <Hsp_qseq>CCAGTTCCGACTC</Hsp_qseq>
+      <Hsp_hseq>CCAGTTCCGACTC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1916</Statistics_db-num>
+      <Statistics_db-len>8327906</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>4</Iteration_iter-num>
+  <Iteration_query-ID>42819</Iteration_query-ID>
+  <Iteration_query-def>seq_8_HTH_87567_32</Iteration_query-def>
+  <Iteration_query-len>32</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|430768498|dbj|AB618031.1|</Hit_id>
+  <Hit_def>Herpes simplex virus (type 1 /strain RH2) DNA, nearly complete genome</Hit_def>
+  <Hit_accession>AB618031</Hit_accession>
+  <Hit_len>149643</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>103843</Hsp_hit-from>
+      <Hsp_hit-to>103830</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|400530476|gb|JX142173.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain Mckrae, partial genome</Hit_def>
+  <Hit_accession>JX142173</Hit_accession>
+  <Hit_len>152201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>105486</Hsp_hit-from>
+      <Hsp_hit-to>105473</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|388524924|gb|JQ730035.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain McKrae, partial genome</Hit_def>
+  <Hit_accession>JQ730035</Hit_accession>
+  <Hit_len>151135</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>104863</Hsp_hit-from>
+      <Hsp_hit-to>104850</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|384597744|gb|JQ780693.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain KOS, complete genome</Hit_def>
+  <Hit_accession>JQ780693</Hit_accession>
+  <Hit_len>151024</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>105062</Hsp_hit-from>
+      <Hsp_hit-to>105049</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|380776962|gb|JQ673480.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain KOS, complete genome</Hit_def>
+  <Hit_accession>JQ673480</Hit_accession>
+  <Hit_len>152011</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>105426</Hsp_hit-from>
+      <Hsp_hit-to>105413</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|354718105|gb|JN420339.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain CJ360, partial genome</Hit_def>
+  <Hit_accession>JN420339</Hit_accession>
+  <Hit_len>151912</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>105292</Hsp_hit-from>
+      <Hsp_hit-to>105279</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|354718033|gb|JN420338.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain CJ311, partial genome</Hit_def>
+  <Hit_accession>JN420338</Hit_accession>
+  <Hit_len>151909</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>105309</Hsp_hit-from>
+      <Hsp_hit-to>105296</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|354717963|gb|JN420337.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain TFT401, partial genome</Hit_def>
+  <Hit_accession>JN420337</Hit_accession>
+  <Hit_len>151912</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>105299</Hsp_hit-from>
+      <Hsp_hit-to>105286</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|354717891|gb|JN400093.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain 134, partial genome</Hit_def>
+  <Hit_accession>JN400093</Hit_accession>
+  <Hit_len>152104</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>105320</Hsp_hit-from>
+      <Hsp_hit-to>105307</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|353260843|gb|JN555585.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain 17, complete genome</Hit_def>
+  <Hit_accession>JN555585</Hit_accession>
+  <Hit_len>152222</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>105505</Hsp_hit-from>
+      <Hsp_hit-to>105492</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|304319600|gb|HM585515.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain R62, partial genome</Hit_def>
+  <Hit_accession>HM585515</Hit_accession>
+  <Hit_len>135544</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>96184</Hsp_hit-from>
+      <Hsp_hit-to>96171</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|304319523|gb|HM585514.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain R11, partial genome</Hit_def>
+  <Hit_accession>HM585514</Hit_accession>
+  <Hit_len>135579</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>96161</Hsp_hit-from>
+      <Hsp_hit-to>96148</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|304319447|gb|HM585513.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain S25, partial genome</Hit_def>
+  <Hit_accession>HM585513</Hit_accession>
+  <Hit_len>135676</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>96180</Hsp_hit-from>
+      <Hsp_hit-to>96167</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|304319371|gb|HM585512.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain S23, partial genome</Hit_def>
+  <Hit_accession>HM585512</Hit_accession>
+  <Hit_len>135003</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>96327</Hsp_hit-from>
+      <Hsp_hit-to>96314</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|304319296|gb|HM585511.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E19, partial genome</Hit_def>
+  <Hit_accession>HM585511</Hit_accession>
+  <Hit_len>135775</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>96176</Hsp_hit-from>
+      <Hsp_hit-to>96163</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|304319221|gb|HM585510.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E14, partial genome</Hit_def>
+  <Hit_accession>HM585510</Hit_accession>
+  <Hit_len>135588</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>96150</Hsp_hit-from>
+      <Hsp_hit-to>96137</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|304319146|gb|HM585509.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E03, partial genome</Hit_def>
+  <Hit_accession>HM585509</Hit_accession>
+  <Hit_len>135658</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>96169</Hsp_hit-from>
+      <Hsp_hit-to>96156</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|304319071|gb|HM585508.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain CR38, partial genome</Hit_def>
+  <Hit_accession>HM585508</Hit_accession>
+  <Hit_len>135948</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>96009</Hsp_hit-from>
+      <Hsp_hit-to>95996</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|304318993|gb|HM585507.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E35, partial genome</Hit_def>
+  <Hit_accession>HM585507</Hit_accession>
+  <Hit_len>134296</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>96124</Hsp_hit-from>
+      <Hsp_hit-to>96111</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|304318915|gb|HM585506.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E25, partial genome</Hit_def>
+  <Hit_accession>HM585506</Hit_accession>
+  <Hit_len>135569</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>96122</Hsp_hit-from>
+      <Hsp_hit-to>96109</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|304318838|gb|HM585505.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E23, partial genome</Hit_def>
+  <Hit_accession>HM585505</Hit_accession>
+  <Hit_len>135558</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>96123</Hsp_hit-from>
+      <Hsp_hit-to>96110</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|304318761|gb|HM585504.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E22, partial genome</Hit_def>
+  <Hit_accession>HM585504</Hit_accession>
+  <Hit_len>135549</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>96194</Hsp_hit-from>
+      <Hsp_hit-to>96181</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|304318683|gb|HM585503.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E15, partial genome</Hit_def>
+  <Hit_accession>HM585503</Hit_accession>
+  <Hit_len>135567</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>96122</Hsp_hit-from>
+      <Hsp_hit-to>96109</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|304318605|gb|HM585502.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E13, partial genome</Hit_def>
+  <Hit_accession>HM585502</Hit_accession>
+  <Hit_len>135600</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>96160</Hsp_hit-from>
+      <Hsp_hit-to>96147</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|304318450|gb|HM585500.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E11, partial genome</Hit_def>
+  <Hit_accession>HM585500</Hit_accession>
+  <Hit_len>135509</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>96127</Hsp_hit-from>
+      <Hsp_hit-to>96114</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|304318372|gb|HM585499.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E10, partial genome</Hit_def>
+  <Hit_accession>HM585499</Hit_accession>
+  <Hit_len>135510</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>96123</Hsp_hit-from>
+      <Hsp_hit-to>96110</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|304318294|gb|HM585498.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E08, partial genome</Hit_def>
+  <Hit_accession>HM585498</Hit_accession>
+  <Hit_len>135539</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>96169</Hsp_hit-from>
+      <Hsp_hit-to>96156</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|304318217|gb|HM585497.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E07, partial genome</Hit_def>
+  <Hit_accession>HM585497</Hit_accession>
+  <Hit_len>135520</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>96168</Hsp_hit-from>
+      <Hsp_hit-to>96155</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|304318139|gb|HM585496.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain E06, partial genome</Hit_def>
+  <Hit_accession>HM585496</Hit_accession>
+  <Hit_len>135550</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>96122</Hsp_hit-from>
+      <Hsp_hit-to>96109</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|290766081|gb|GU734772.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain H129, complete genome</Hit_def>
+  <Hit_accession>GU734772</Hit_accession>
+  <Hit_len>152066</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>105444</Hsp_hit-from>
+      <Hsp_hit-to>105431</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|290766003|gb|GU734771.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain F, complete genome</Hit_def>
+  <Hit_accession>GU734771</Hit_accession>
+  <Hit_len>152151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>105400</Hsp_hit-from>
+      <Hsp_hit-to>105387</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|222478328|gb|FJ593289.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 transgenic strain 17, complete genome</Hit_def>
+  <Hit_accession>FJ593289</Hit_accession>
+  <Hit_len>165101</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>105371</Hsp_hit-from>
+      <Hsp_hit-to>105358</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|114318788|gb|DQ889502.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain HF clone 10, partial sequence</Hit_def>
+  <Hit_accession>DQ889502</Hit_accession>
+  <Hit_len>131774</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>96298</Hsp_hit-from>
+      <Hsp_hit-to>96285</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|89941444|dbj|AB252710.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 UL49 gene for tegument protein VP22, complete cds</Hit_def>
+  <Hit_accession>AB252710</Hit_accession>
+  <Hit_len>906</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>888</Hsp_hit-from>
+      <Hsp_hit-to>901</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|47132407|gb|AY602769.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 strain KOS tegument protein VP22 gene, complete cds</Hit_def>
+  <Hit_accession>AY602769</Hit_accession>
+  <Hit_len>906</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>888</Hsp_hit-from>
+      <Hsp_hit-to>901</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|1944536|emb|X14112.1|</Hit_id>
+  <Hit_def>Human herpesvirus 1 complete genome</Hit_def>
+  <Hit_accession>X14112</Hit_accession>
+  <Hit_len>152261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>105504</Hsp_hit-from>
+      <Hsp_hit-to>105491</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|330056|gb|M15621.1|HS1ATIF1</Hit_id>
+  <Hit_def>HSV1 (strain F) alpha-trans-inducing factor genes, complete cds</Hit_def>
+  <Hit_accession>M15621</Hit_accession>
+  <Hit_len>7241</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>413</Hsp_hit-from>
+      <Hsp_hit-to>426</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|330054|gb|K03350.1|HS1ATIF</Hit_id>
+  <Hit_def>HSV1 (strain F) alpha trans inducing factor, complete cds (0.680-0.689 map units)</Hit_def>
+  <Hit_accession>K03350</Hit_accession>
+  <Hit_len>2522</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>413</Hsp_hit-from>
+      <Hsp_hit-to>426</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|59834|emb|X03141.1|</Hit_id>
+  <Hit_def>Herpes simplex virus type 1 gene for Vmw65 protein activating IE promoters (mapping between 0.669 and 0.685)</Hit_def>
+  <Hit_accession>X03141</Hit_accession>
+  <Hit_len>2609</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>26.5335</Hsp_bit-score>
+      <Hsp_score>28</Hsp_score>
+      <Hsp_evalue>1.6215</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>24</Hsp_query-to>
+      <Hsp_hit-from>29</Hsp_hit-from>
+      <Hsp_hit-to>42</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>14</Hsp_identity>
+      <Hsp_positive>14</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>14</Hsp_align-len>
+      <Hsp_qseq>CAGACGGCCCGTCG</Hsp_qseq>
+      <Hsp_hseq>CAGACGGCCCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1916</Statistics_db-num>
+      <Statistics_db-len>8327906</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+
+
+

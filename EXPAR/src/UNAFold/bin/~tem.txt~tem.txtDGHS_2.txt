@@ -1,0 +1,4 @@
+Calculating for seq_1_HTT_71873_27_tem_0 and seq_1_HTT_71873_27_tem_0, t = 55
+dG	dH	dS	Tm
+-7.2	-98.4	-278.0	42.8
+

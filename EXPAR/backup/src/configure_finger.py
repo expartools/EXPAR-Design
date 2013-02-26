@@ -1,0 +1,4 @@
+min_tri_temp_tm=35
+max_tri_temp_tm=55
+max_temp_tm=25
+max_temp_bonds=10

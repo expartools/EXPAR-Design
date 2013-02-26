@@ -1,0 +1,55 @@
+#complot.col color map for complot Mar 2, 1999: Define 7 colors below with rgb.
+0.00 0.00 0.00  # b0 not used
+0.00 0.00 0.00  # b1 black for conserved base pair
+0.95 0.00 0.00  # b2 red mutual information from [1.4, 2.0]
+0.00 0.78 0.00  # b3 green  mut info from [1.0, 1.4)
+0.30 0.45 0.99  # b4 for blue             [.70, 1.00)
+0.70  .55 0.10  # b5 for light brown      [.40, .70)
+0.95 0.95 0.00  # b6 yellow for fifth sequence  [0.00, .40)
+0.99 0.00 0.00  # 7 red  not used
+0.00 0.00 0.20  # 8 blue-black for text
+0.65 0.65 0.65  # 9 gray for grid lines
+0.00 0.00 0.60  # 10 blue for labels and reference sequence
+0.99 0.99 0.99  # 11 Background color
+# Minimum Size of dots for postscript for all except non-zoom probability
+# first number is magnification, second is minimum size in points.
+1.00  1.00 # (not used)    1.0 for first is maximum size without overlap.
+1.0   1.0  # for black=b1,conserved   1.0 for second indicates dot is drawn 
+3.0   1.0  # for red=b2        at least  1.0/72 inch
+1.0   1.0  # for green=b3
+1.0   1.0  # for blue=b4
+1.0   1.0  # for brown=b5        Adjust these to change size of dots.
+1.0   1.0  # for yellow=b6
+1.0   1.0  # (not used)   
+# For each line above, first num is relative size, 2nd is min point size
+# To change colors,
+.20 .91  # Hij<First=.20 and fij[N1][N2]>Second=.90 produces
+# a conserved basepair in color 1;
+#
+#To change colors,dot sizes, or conserved basepair restrictions:
+#
+# Any floating point number of the form x.xx may be altered.
+# The comment text  following the # may be altered to describe changes.
+# Every line above is required.  The program is stupid.
+# The # symbol indicates comments, but the program does not look for it. 
+# The program ignores lines 1,14,15,34 on.  
+# Lines 2-20 must exist with colors  specified as red, green, and blue values
+# between 0.00 and 0.99   
+#
+# These colors are used for the screen, postscript, and gif files.
+# They are used for both energy and probability plot files.
+#
+# Format of this file must match the format expected by complot_setcolor.h
+#
+# Lines 23-30 must exist.
+# The dot sizes for compensate should not be smaller than the dot size
+# for the black(full overlap).
+#
+# Line 33 defines when conserved basepairs are shown.
+# Setting the first value smaller speeds up the program slightly.
+
+
+
+
+
+

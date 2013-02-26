@@ -1,0 +1,56 @@
+#complot.col color map for complot Mar 2, 1999:
+0.00 0.00 0.00     # b0 Black for full overlap
+0.35 0.35 0.49     # b1 Gray for partial overlap
+0.38 0.752 0.258   # b2 green for first sequence
+0.86 0.49 0.602 # b3 purple for 2nd sequence
+0.20 0.60 0.80  # b4 light blue for 4th sequence
+0.71 0.64 0.00  # b5 yellow for 3rd sequence
+0.59 0.204 0.765 # b6 Purple for 5th sequence
+0.99 0.00 0.00  # 7 red for compensate
+0.00 0.00 0.20  # 8 black for text
+0.65 0.65 0.65  # 9 gray for grid lines
+0.00 0.00 0.60  # 10 blue for labels
+0.999 0.999 0.999  # 11 Background color
+0.05 0.05 0.50  # 12 for close within color
+0.99 0.89 0.20  # 13 for the background of base A
+0.00 0.80 0.00  # 14 for the background of base C
+0.10 0.50 0.99  # 15 for the background of base G
+0.99 0.20 0.10  # 16 for the background of base U
+0.99 0.10 0.99  # 17 for the background of unusual characters
+0.80 0.80 0.80  # 18 for the background of insertion character
+0.00 0.00 0.00  # 19 for the text on background above.
+0.96 0.88 0.88  # 20 for helix in alignment window. pink
+0.92 0.92 0.92  # 21 for fine grid lines in zoom, very light gray
+# Minimum Size of dots for postscript for all except non-zoom probability
+# first number is magnification, second is minimum size in points.
+1.00  1.00  # for black, 1.0 for first is maximum size without overlap.
+1.0   1.0  # for gray    1.0 for second indicates dot is drawn 
+1.0   1.0  # for 1 yellow     at least  1.0/72 inch
+1.0   1.0  # for 2 green 
+1.0   1.0  # for 3 
+1.0   1.0  # for 4
+1.0   1.0  # for 5
+1.0   1.0  # for 6 compensate
+# For each line above, first num is relative size, 2nd is min point size
+# To change colors,
+# Any floating point number of the form x.xx may be altered.
+# The comment text  following the # may be altered to describe changes.
+# Every line above is required.  The program is stupid.
+# The # symbol indicates comments, but the program does not look for it. 
+# The program ignores lines 1,14,15,24 on.  
+# Lines 2-13 must exist with colors  specified as red, green, and blue values
+# between 0.00 and 0.99   
+#
+# These colors are used for the screen, postscript, and gif files.
+# They are used for both energy and probability plot files.
+
+# Format of this file must match the format expected by complot_setcolor.h
+
+# Lines 16-23 must exist.
+# The dot sizes for compensate should not be smaller than the dot size
+for the black(full overlap).
+
+# The black, gray should be larger than the individual structures,
+as in 1-5.
+
+

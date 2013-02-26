@@ -1,0 +1,10 @@
+hybrid-min 3.8 ran on ~tem.txt and ~tem.txt at Thu Feb 14 11:03:18 2013
+
+NA = DNA
+tMin = 55
+tInc = 1
+tMax = 55
+[Na+] = 1
+[Mg++] = 0
+maxloop = 30
+prefilter 2/2
